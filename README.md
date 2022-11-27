@@ -8,4 +8,4 @@ For Build Project Type this in Command Prompt in Files Relative Path:
 
   **gcc -o "Name to Your File" main.c -llua**
   
-![alt text](https://github.com/Cebolx/luac/blob/main/71ec616c2f5718bfa7faeda82d5ad23b.jpg?raw=true)
+![alt text](https://avatars.githubusercontent.com/u/2319114?s=200&v=4)?raw=true)
