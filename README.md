@@ -6,6 +6,7 @@ You Can Find Lua lualib.a in **Lua** Path in This Repository
 
 For Build Project Type this in Command Prompt in Files Relative Path:
 
-  **gcc -o "Name to Your File" main.c -llua**
+  "**gcc -o "Name to Your File" main.c -llua**"
+  
   
 ![alt text](https://avatars.githubusercontent.com/u/2319114?s=200&v=4?raw=true)
